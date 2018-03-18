@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "http.js",
+  "authors": [
+    "oryan <oryanfu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "font-awesome": "^5.0.8"
+  }
+}
